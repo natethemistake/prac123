@@ -1,1 +1,1 @@
-Hi my name Is nate , NO its NOT 
+This line was changed on conflict-test.
